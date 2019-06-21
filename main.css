@@ -1,0 +1,24 @@
+body {
+	background: #9999;
+	font-family: arial;
+}
+
+hr, h5, p, li, a {
+	color: #555;
+}
+
+h1 {
+	background: #666;
+	colar: white;
+	padding: 10px; 
+}
+
+.secondary {
+	background: none;
+	color: #777;
+}
+
+#special {
+	background: none;
+	color: #777;
+}
